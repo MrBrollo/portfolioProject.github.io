@@ -63,6 +63,15 @@
     padding: 0 10%;
 }
 
+.contact-me {
+    height: 100vh;
+    background: linear-gradient(-90deg, #031540 65%, #fff 35%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35% 10%;
+}
+
 .home-img {
     display: flex;
     justify-content: center;
